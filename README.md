@@ -1,1 +1,1 @@
-# STEAM-bot
+# Steam Bot
